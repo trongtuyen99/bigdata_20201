@@ -1,0 +1,1 @@
+Dữ liệu thu thập và xử lý từ các trang báo: soha.vn, baophapluat.com, 24h.com có thể lấy tại: [google drive](https://drive.google.com/drive/folders/14EeLxb9FtvKrfv6XBS0UHuIXUzqnZvBb?usp=sharing)
